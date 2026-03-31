@@ -1,0 +1,5 @@
+Dataset/
+DATA-AI-Hackathon-Track-1/.git_embedded_backup/
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.pyc

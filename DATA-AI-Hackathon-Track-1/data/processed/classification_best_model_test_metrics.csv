@@ -1,0 +1,2 @@
+model,threshold,pr_auc,roc_auc,brier,precision,recall,f1,mean_predicted_risk,observed_positive_rate,predicted_positive_rate,predicted_positives
+Logistic Regression,0.15,0.08656570281001494,0.6380510440835268,0.04913142623961395,0.0,0.0,0.0,0.07618726910447939,0.0517051705170517,0.00055005500550055,1

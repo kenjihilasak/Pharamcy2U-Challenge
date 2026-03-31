@@ -1,0 +1,2077 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 14 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+/F4 9 0 R
+/F5 10 0 R
+/F16fb720b7-2599-4b45-942c-6e8a8a71ab92 <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+/F25fead3b5-b6da-44d2-bf6e-88e8d8974fdd <<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+/F3b4688d55-a238-4cbc-b193-890908acbf93 <<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+>>
+/ProcSet [ /ImageI /PDF /ImageB /ImageC /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 1 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 9967
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.043137 0.184314 0.227451 rg
+n
+0 802.2047 595.2756 39.68504 re
+f*
+1 1 1 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 146.7678 814.9606 Tm
+(Prescription\040Refill\040Risk\040\046\040Recommendations\040\055\0402\055Day\040Hackathon) Tj
+T*
+ET
+0.333333 0.333333 0.333333 rg
+BT
+/F1 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 284.1695 28.34646 Tm
+(Page\0401) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 726.5197 cm
+q
+0.043137 0.184314 0.227451 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 26 Tf
+30 TL
+101.9172 0 Td
+(2\055Day\040Hackathon\040Brief) Tj
+T*
+-101.9172 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 690.5197 cm
+q
+BT
+1 0 0 1 0 17 Tm
+14 TL
+/F2 11 Tf
+0.043137 0.184314 0.227451 rg
+(Theme\072) Tj
+/F1 11 Tf
+(\040Prescription\040refill\040risk\040\046\040responsible\040\223next\055best\224\040recommendations\040\050built\040only\040from) Tj
+T*
+(prescription\040order\040events\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 642.0197 cm
+q
+BT
+1 0 0 1 0 30 Tm
+13.5 TL
+/F1 10.5 Tf
+0 0 0 rg
+(This\040hackathon\040is\040inspired\040by\040two\040Pharmacy2U\040internship\040themes\072\040) Tj
+/F2 10.5 Tf
+(\050A\051) Tj
+/F1 10.5 Tf
+(\040refill\040irregularity\057adherence\040risk) Tj
+T*
+(from\040dispensing\040history\040and\040) Tj
+/F2 10.5 Tf
+(\050B\051) Tj
+/F1 10.5 Tf
+(\040recommendation\055style\040\223clinical\040cross\055sell\224\040from\040medication\040patterns) Tj
+T*
+(\050with\040honest\040limitations\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 617.0197 cm
+q
+0.043137 0.184314 0.227451 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 12.5 Tf
+15 TL
+(Context) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 570.5197 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 10.5 Tf
+13.5 TL
+(Pharmacy2U\040is\040the\040UK\222s\040largest\040online\040pharmacy\056\040We\040help\040patients\040manage\040NHS\040prescriptions\040digitally) Tj
+T*
+-0.056797 Tw
+(and\040receive\040medicines\040at\040home\056\040At\040scale\054\040small\040improvements\040in\040how\040you\040understand\040prescription\040event) Tj
+T*
+0 Tw
+(data\040can\040have\040a\040big\040impact\040on\040patient\040experience\040and\040operational\040efficiency\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 541.3197 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 17.2 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 541.3197 cm
+q
+BT
+1 0 0 1 0 13.9 Tm
+11.6 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Refill\040regularity\072) Tj
+/F1 9.3 Tf
+(\040spotting\040likely\040late\040refills\040early\040can\040support\040proactive\040reminders\057outreach\040and\040reduce\040avoidable) Tj
+T*
+(inbound\040contact\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 512.1197 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 17.2 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 512.1197 cm
+q
+BT
+1 0 0 1 0 13.9 Tm
+11.6 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Next\055best\040support\072) Tj
+/F1 9.3 Tf
+(\040prescription\040sequences\040often\040reflect\040a\040therapy\040journey\073\040learning\040common\040transitions\040can\040power) Tj
+T*
+(more\040relevant\054\040timely\040recommendations\040\050e\056g\056\054\040information\054\040support\040items\054\040or\040prompts\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 482.9197 cm
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 17.2 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 482.9197 cm
+q
+BT
+1 0 0 1 0 13.9 Tm
+11.6 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Responsible\040framing\072) Tj
+/F1 9.3 Tf
+(\040this\040is\040) Tj
+/F2 9.3 Tf
+(not) Tj
+/F1 9.3 Tf
+(\040clinical\040advice\040or\040prescribing\073\040it\222s\040a\040modelling\040\053\040product\055thinking\040exercise\040on) Tj
+T*
+(synthetic\040claims\055style\040data\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 457.9197 cm
+q
+0.043137 0.184314 0.227451 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 12.5 Tf
+15 TL
+(Dataset\040\050simple\040download\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 424.9197 cm
+q
+BT
+1 0 0 1 0 16.5 Tm
+13.5 TL
+/F2 10.5 Tf
+0 0 0 rg
+(CMS\040DE\055SynPUF\040\055\040Prescription\040Drug\040Events\040\050PDE\051\054\040Sample\0401\040\0502008\0552010\051) Tj
+/F1 10.5 Tf
+(\056\040Fully\040synthetic\054\040Part) Tj
+T*
+(D\055style\040prescription\040event\040data\040designed\040for\040training\040and\040software\040development\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 268.5197 cm
+q
+0.043137 0.184314 0.227451 rg
+n
+0 150.4 493.2283 -16.4 re
+f*
+0.960784 0.960784 0.960784 rg
+n
+0 134 493.2283 -37.2 re
+f*
+1 1 1 rg
+n
+0 96.8 493.2283 -26.8 re
+f*
+0.960784 0.960784 0.960784 rg
+n
+0 70 493.2283 -16.4 re
+f*
+1 1 1 rg
+n
+0 53.6 493.2283 -26.8 re
+f*
+0.960784 0.960784 0.960784 rg
+n
+0 26.8 493.2283 -26.8 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 137 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8.4 Tf
+10.4 TL
+(Resource) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 161.9055 137 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8.4 Tf
+10.4 TL
+(Link) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 120.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8.4 Tf
+10.4 TL
+(CMS\040Sample\0401\040page\040\050file\040list\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 161.9055 99.8 cm
+q
+0 0.298039 0.6 rg
+BT
+1 0 0 1 0 22.8 Tm
+/F1 8.4 Tf
+10.4 TL
+(https\072\057\057www\056cms\056gov\057data\055research\057statistics\055trends\055and\055reports\057medicare\055claims\055synth) Tj
+T*
+(etic\055public\055use\055files\057cms\0552008\0552010\055data\055entrepreneurs\055synthetic\055public\055use\055file\055de\055sy) Tj
+T*
+(npuf\057de10\055sample\0551) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 83.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8.4 Tf
+10.4 TL
+(Direct\040PDE\040ZIP\040\050primary\040file\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 161.9055 73 cm
+q
+0 0.298039 0.6 rg
+BT
+1 0 0 1 0 12.4 Tm
+/F1 8.4 Tf
+10.4 TL
+(https\072\057\057downloads\056cms\056gov\057files\057DE1\1370\1372008\137to\1372010\137Prescription\137Drug\137Events\137Sa) Tj
+T*
+(mple\1371\056zip) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 56.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8.4 Tf
+10.4 TL
+(DE\0401\0560\040Codebook\040\050columns\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 161.9055 56.6 cm
+q
+0 0.298039 0.6 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8.4 Tf
+10.4 TL
+(https\072\057\057www\056cms\056gov\057files\057document\057de\05510\055codebook\056pdf\0550) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 40.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8.4 Tf
+10.4 TL
+(Optional\072\0402010\040Beneficiary\040Summary) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 161.9055 29.8 cm
+q
+0 0.298039 0.6 rg
+BT
+1 0 0 1 0 12.4 Tm
+/F1 8.4 Tf
+10.4 TL
+(https\072\057\057www\056cms\056gov\057sites\057default\057files\0572020\05509\057DE1\1370\1372010\137Beneficiary\137Summary\137Fi) Tj
+T*
+(le\137Sample\1371\056zip) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 12.4 Tm
+/F1 8.4 Tf
+10.4 TL
+(Backup\040\050if\040blocked\051\072\040AWS\040OMOP) Tj
+T*
+(mirror) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 161.9055 13.4 cm
+q
+0 0.298039 0.6 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8.4 Tf
+10.4 TL
+(https\072\057\057registry\056opendata\056aws\057cmsdesynpuf\055omop\057) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.8 0.8 0.8 RG
+0.5 w
+n
+0 150.4 m
+493.2283 150.4 l
+S
+n
+0 0 m
+493.2283 0 l
+S
+n
+0 0 m
+0 150.4 l
+S
+n
+493.2283 0 m
+493.2283 150.4 l
+S
+n
+0 134 m
+493.2283 134 l
+S
+n
+0 96.8 m
+493.2283 96.8 l
+S
+n
+0 70 m
+493.2283 70 l
+S
+n
+0 53.6 m
+493.2283 53.6 l
+S
+n
+0 26.8 m
+493.2283 26.8 l
+S
+n
+155.9055 0 m
+155.9055 150.4 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 241.7197 cm
+q
+BT
+1 0 0 1 0 12.4 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Download\040tip\072) Tj
+/F1 8.4 Tf
+(\040if\040clicking\040does\040nothing\054\040paste\040the\040\223Direct\040PDE\040ZIP\224\040URL\040into\040your\040browser\040address\040bar\040\050or\040use\040) Tj
+/F3 8.4 Tf
+(curl\040\055L\040\055O) Tj
+T*
+(URL) Tj
+/F1 8.4 Tf
+(\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 221.7197 cm
+q
+0.043137 0.184314 0.227451 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 11 Tf
+14 TL
+(What\222s\040in\040the\040PDE\040file\040\050key\040columns\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 73.71969 cm
+q
+0.043137 0.184314 0.227451 rg
+n
+0 144 493.2283 -18 re
+f*
+0.960784 0.960784 0.960784 rg
+n
+0 126 493.2283 -18 re
+f*
+1 1 1 rg
+n
+0 108 493.2283 -18 re
+f*
+0.960784 0.960784 0.960784 rg
+n
+0 90 493.2283 -18 re
+f*
+1 1 1 rg
+n
+0 72 493.2283 -18 re
+f*
+0.960784 0.960784 0.960784 rg
+n
+0 54 493.2283 -18 re
+f*
+1 1 1 rg
+n
+0 36 493.2283 -18 re
+f*
+0.960784 0.960784 0.960784 rg
+n
+0 18 493.2283 -18 re
+f*
+1 1 1 rg
+BT
+/F2 9 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 132 Tm
+(Column) Tj
+T*
+ET
+BT
+1 0 0 1 133.5591 132 Tm
+(Meaning\040\050plain\040English\051) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 114 Tm
+(DESYNPUF\137ID) Tj
+T*
+ET
+BT
+1 0 0 1 133.5591 114 Tm
+(Pseudonymised\040patient\057beneficiary\040identifier) Tj
+T*
+ET
+BT
+1 0 0 1 6 96 Tm
+(SRVC\137DT) Tj
+T*
+ET
+BT
+1 0 0 1 133.5591 96 Tm
+(Prescription\040fill\057service\040date) Tj
+T*
+ET
+BT
+1 0 0 1 6 78 Tm
+(PROD\137SRVC\137ID) Tj
+T*
+ET
+BT
+1 0 0 1 133.5591 78 Tm
+(NDC\05511\040drug\040product\040code\040\050the\040dispensed\040item\051) Tj
+T*
+ET
+BT
+1 0 0 1 6 60 Tm
+(DAYS\137SUPLY\137NUM) Tj
+T*
+ET
+BT
+1 0 0 1 133.5591 60 Tm
+(Days\040of\040supply\040\050expected\040duration\040of\040the\040fill\051) Tj
+T*
+ET
+BT
+1 0 0 1 6 42 Tm
+(QTY\137DSPNSD\137NUM) Tj
+T*
+ET
+BT
+1 0 0 1 133.5591 42 Tm
+(Quantity\040dispensed) Tj
+T*
+ET
+BT
+1 0 0 1 6 24 Tm
+(PTNT\137PAY\137AMT) Tj
+T*
+ET
+BT
+1 0 0 1 133.5591 24 Tm
+(Patient\040pay\040amount\040\050cost\040signal\051) Tj
+T*
+ET
+BT
+1 0 0 1 6 6 Tm
+(TOT\137RX\137CST\137AMT) Tj
+T*
+ET
+BT
+1 0 0 1 133.5591 6 Tm
+(Total\040drug\040cost\040\050cost\040signal\051) Tj
+T*
+ET
+q
+1 J
+1 j
+0.8 0.8 0.8 RG
+0.5 w
+n
+0 144 m
+493.2283 144 l
+S
+n
+0 0 m
+493.2283 0 l
+S
+n
+0 0 m
+0 144 l
+S
+n
+493.2283 0 m
+493.2283 144 l
+S
+n
+0 126 m
+493.2283 126 l
+S
+n
+0 108 m
+493.2283 108 l
+S
+n
+0 90 m
+493.2283 90 l
+S
+n
+0 72 m
+493.2283 72 l
+S
+n
+0 54 m
+493.2283 54 l
+S
+n
+0 36 m
+493.2283 36 l
+S
+n
+0 18 m
+493.2283 18 l
+S
+n
+127.5591 0 m
+127.5591 144 l
+S
+Q
+Q
+Q
+Q
+q
+0 0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F16fb720b7-2599-4b45-942c-6e8a8a71ab92 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+40 539 495 27 re
+f*
+q
+1 0 0 1 57 544.6 cm
+q
+BT
+1 0 0 1 -14 11.1 Tm
+/F16fb720b7-2599-4b45-942c-6e8a8a71ab92 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 0 11.1 Tm
+10.2 TL
+/F25fead3b5-b6da-44d2-bf6e-88e8d8974fdd 9.3 Tf
+0 0 0 rg
+(Refill\040regularity\040\050non\055adherence\040proxy\051\072) Tj
+/F16fb720b7-2599-4b45-942c-6e8a8a71ab92 9.3 Tf
+(\040spotting\040likely\040non\055adherence\040\050via\040late\040refills\051\040can\040support\040proactive) Tj
+T*
+(reminders\057outreach\040and\040reduce\040avoidable\040inbound\040contact\056) Tj
+T*
+ET
+Q
+Q
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Symbol
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+/F4 9 0 R
+/F5 10 0 R
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+/F28155b803-593a-42f4-a2e1-7232fc411ca1 <<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+/F35f671066-d50f-4b5f-b40b-92a63cd32e50 <<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+>>
+/ProcSet [ /ImageI /PDF /ImageB /ImageC /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 1 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 16114
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.043137 0.184314 0.227451 rg
+n
+0 802.2047 595.2756 39.68504 re
+f*
+1 1 1 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 146.7678 814.9606 Tm
+(Prescription\040Refill\040Risk\040\046\040Recommendations\040\055\0402\055Day\040Hackathon) Tj
+T*
+ET
+0.333333 0.333333 0.333333 rg
+BT
+/F1 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 284.1695 28.34646 Tm
+(Page\0402) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 742.5197 cm
+q
+0.043137 0.184314 0.227451 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 11 Tf
+14 TL
+(Quick\040glossary\040\050non\055clinical\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 726.1197 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 726.1197 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(NDC\05511\072) Tj
+/F1 8.4 Tf
+(\040an\04011\055digit\040National\040Drug\040Code\040\050product\040identifier\040for\040a\040dispensed\040medicine\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 709.7197 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 709.7197 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Days\040of\040supply\072) Tj
+/F1 8.4 Tf
+(\040how\040long\040the\040dispensed\040quantity\040is\040expected\040to\040last\040\050e\056g\056\054\04028\05730\05790\040days\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 693.3197 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 693.3197 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Expected\040run\055out\040date\072) Tj
+/F1 8.4 Tf
+(\040) Tj
+/F3 8.4 Tf
+(SRVC\137DT\040\053\040DAYS\137SUPLY\137NUM) Tj
+/F1 8.4 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 676.9197 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 676.9197 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Late\040refill\072) Tj
+/F1 8.4 Tf
+(\040the\040next\040fill\040happens\040after\040run\055out\040\050often\040with\040a\040grace\040window\040like\040\0537\040or\040\05314\040days\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 651.9197 cm
+q
+0.043137 0.184314 0.227451 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 12.5 Tf
+15 TL
+(Choose\040your\040challenge) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 618.9197 cm
+q
+BT
+1 0 0 1 0 16.5 Tm
+13.5 TL
+/F1 10.5 Tf
+0 0 0 rg
+(Pick\040) Tj
+/F2 10.5 Tf
+(Challenge\040A) Tj
+/F1 10.5 Tf
+(\040or\040) Tj
+/F2 10.5 Tf
+(Challenge\040B) Tj
+/F1 10.5 Tf
+(\056\040If\040you\222re\040ambitious\040you\040can\040attempt\040both\054\040but\040plan\040to\040present\040one) Tj
+T*
+(clearly\040in\040your\040final\040demo\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 330.9197 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 268 cm
+q
+0.043137 0.184314 0.227451 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 11 Tf
+14 TL
+(Challenge\040A\040\055\040Late\040refill\040risk) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 237.2 cm
+q
+BT
+1 0 0 1 0 12.4 Tm
+-0.091176 Tw
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Goal\072) Tj
+/F1 8.4 Tf
+(\040predict\040which\040patient\226drug\040pairs\040are\040likely\040to\040refill\040late\040next) Tj
+T*
+0 Tw
+(time\054\040and\040produce\040a\040usable\040risk\040score\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 166.8 cm
+q
+BT
+1 0 0 1 0 54 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Label\040guidance\040\050minimum\051\072) Tj
+/F1 8.4 Tf
+(\040expected\040run\055out\040\075\040) Tj
+/F3 8.4 Tf
+(SRVC\137DT\040\053) Tj
+T*
+(DAYS\137SUPLY\137NUM) Tj
+/F1 8.4 Tf
+(\056\040Link\040fills\040using\040) Tj
+/F3 8.4 Tf
+(PROD\137SRVC\137ID) Tj
+/F1 8.4 Tf
+(\040and\040label) Tj
+T*
+(\223late\224\040if\040the\040next\040fill\040occurs\040after\040a\040grace\040window\040\050e\056g\056\054\040\0537\040or\040\05314) Tj
+T*
+(days\051\056\040) Tj
+/F2 8.4 Tf
+(You\040can\040use\040any\040PDE\040columns\040as\040features) Tj
+/F1 8.4 Tf
+(\040\050quantity) Tj
+T*
+(and\040cost\040fields\040often\040help\051\054\040as\040long\040as\040they\040are\040available\040before) Tj
+T*
+(prediction\040time\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 138 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -12 15.3 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 0 138 cm
+q
+BT
+1 0 0 1 0 12.4 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Features\072) Tj
+/F1 8.4 Tf
+(\040refill\040gap\040stats\054\040early\040refills\057stockpiling\054\040cadence) Tj
+T*
+(stability\054\040cost\057quantity\040patterns\054\040polypharmacy\040proxies\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 111.2 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -12 15.3 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 0 111.2 cm
+q
+BT
+1 0 0 1 0 12.4 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Validation\072) Tj
+/F1 8.4 Tf
+(\040time\055based\040split\040to\040avoid\040leakage\073\040handle\040censoring) Tj
+T*
+(\050last\040fill\040has\040no\040next\040fill\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 94.8 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -12 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 0 94.8 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Metric\072) Tj
+/F1 8.4 Tf
+(\040PR\055AUC\040\053\040quick\040calibration\040check\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 78.4 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -12 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 0 78.4 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Demo\072) Tj
+/F1 8.4 Tf
+(\040patient\040timeline\040for\0401\2262\040drugs\040\053\040risk\040score\040\053\040top\040drivers\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 238.1102 254 cm
+q
+0.043137 0.184314 0.227451 rg
+BT
+1 0 0 1 0 17 Tm
+/F2 11 Tf
+14 TL
+(Challenge\040B\040\055\040Pathway\055aware\040\223next\055best\224) Tj
+T*
+(recommendations) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 238.1102 223.2 cm
+q
+BT
+1 0 0 1 0 12.4 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Goal\072) Tj
+/F1 8.4 Tf
+(\040recommend\040the\040top\040) Tj
+/F4 8.4 Tf
+(K) Tj
+/F1 8.4 Tf
+(\040next\040items\040\050or\040next\040drug\040class\051\040in\040a) Tj
+T*
+(future\040window\040\050e\056g\056\054\040next\04030\22690\040days\051\040and\040explain\040why\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 238.1102 163.2 cm
+q
+BT
+1 0 0 1 0 43.6 Tm
+-0.11187 Tw
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Pathway\040element\072) Tj
+/F1 8.4 Tf
+(\040there\040is\040no\040explicit\040\223clinical\040pathway\224\040column\056) Tj
+T*
+0 Tw
+(Treat\040pathways\040as\040common\040sequences\040over\040time\040\050items\040or\040drug) Tj
+T*
+(classes\051\056\040A\040simple\040approach\040is\040a\040Markov\040transition\040graph\073) Tj
+T*
+(advanced\040approaches\040include\040sequential\040pattern\040mining\040or) Tj
+T*
+(sequence\040models\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 238.1102 134.4 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -12 15.3 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 238.1102 134.4 cm
+q
+BT
+1 0 0 1 0 12.4 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Baseline\072) Tj
+/F1 8.4 Tf
+(\040association\040rules\040\057\040co\055occurrence\040within\040a\040time) Tj
+T*
+(window\040is\040a\040strong\040starting\040point\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 238.1102 107.6 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -12 15.3 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 238.1102 107.6 cm
+q
+BT
+1 0 0 1 0 12.4 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Evaluation\072) Tj
+/F1 8.4 Tf
+(\040Recall\100K\040or\040nDCG\100K\040on\040a\040held\055out\040future) Tj
+T*
+(window\040\050use\040a\040temporal\040split\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 238.1102 80.8 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -12 15.3 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 238.1102 80.8 cm
+q
+BT
+1 0 0 1 0 12.4 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Demo\072) Tj
+/F1 8.4 Tf
+(\040input\040a\040patient\040ID\054\040show\040recommendations\040\053\040short) Tj
+T*
+(explanation\040\050similar\040histories\054\040transitions\054\040pathway\040stage\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 238.1102 78.8 cm
+Q
+q
+1 0 0 1 238.1102 0 cm
+q
+BT
+1 0 0 1 0 64.4 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Optional\040enrichment\040\050not\040required\051\072) Tj
+/F1 8.4 Tf
+(\040map\040NDC\05511\040to) Tj
+T*
+(names\057classes\040for\040interpretability\056) Tj
+T*
+0 0.298039 0.6 rg
+(RxNorm\040\050NDC\040) Tj
+/F5 8.4 Tf
+10.4 TL
+(\256) Tj
+/F1 8.4 Tf
+10.4 TL
+(\040RxCUI\051\072\040https\072\057\057rxnav\056nlm\056nih\056gov\057REST\057rxcui\056) Tj
+T*
+(json\077idtype\075NDC) Tj
+(\046) Tj
+(id\075) Tj
+(\074) Tj
+(NDC11) Tj
+(\076) Tj
+0 0 0 rg
+T*
+0 0.298039 0.6 rg
+(RxClass\040\050RxCUI\040) Tj
+/F5 8.4 Tf
+10.4 TL
+(\256) Tj
+/F1 8.4 Tf
+10.4 TL
+(\040classes\051\072\040https\072\057\057rxnav\056nlm\056nih\056gov\057REST\057rx) Tj
+T*
+(class\057class\057byRxcui\056json\077rxcui\075) Tj
+(\074) Tj
+(RXCUI) Tj
+(\076) Tj
+0 0 0 rg
+T*
+0 0.298039 0.6 rg
+(openFDA\040NDC\040API\072\040https\072\057\057open\056fda\056gov\057apis\057drug\057ndc\057) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 305.9197 cm
+q
+0.043137 0.184314 0.227451 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 12.5 Tf
+15 TL
+(What\040you\040should\040deliver\040by\040end\040of\040Day\0402) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 289.5197 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 289.5197 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8.4 Tf
+10.4 TL
+(A\040working\040pipeline\040for\040your\040chosen\040challenge\040\050data\040) Tj
+/F5 8.4 Tf
+10.4 TL
+(\256) Tj
+/F1 8.4 Tf
+10.4 TL
+(\040features\040) Tj
+/F5 8.4 Tf
+10.4 TL
+(\256) Tj
+/F1 8.4 Tf
+10.4 TL
+(\040model\057recommender\040) Tj
+/F5 8.4 Tf
+10.4 TL
+(\256) Tj
+/F1 8.4 Tf
+10.4 TL
+(\040metric\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 273.1197 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 273.1197 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8.4 Tf
+10.4 TL
+(A\040leakage\055safe\040validation\040approach\040\050ideally\040time\055based\051\040and\040a\040score\040you\040can\040explain\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 256.7197 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 256.7197 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8.4 Tf
+10.4 TL
+(A\040short\040demo\040\050notebook\055as\055product\040is\040fine\073\040Streamlit\057Gradio\040optional\051\040that\040a\040judge\040can\040run\040in\040a\040few\040minutes\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 240.3197 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 240.3197 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8.4 Tf
+10.4 TL
+(A\040short\040README\057slide\040\050max\040\1765\040slides\051\072\040framing\054\040label\057task\040definition\054\040evaluation\040method\054\040results\054\040limitations\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 215.3197 cm
+q
+0.043137 0.184314 0.227451 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 12.5 Tf
+15 TL
+(Suggested\0402\055day\040flow) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 198.9197 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 198.9197 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Day\0401\072) Tj
+/F1 8.4 Tf
+(\040load\040data\054\040basic\040EDA\054\040agree\040label\057reco\040framing\054\040build\040baseline\040end\055to\055end\054\040get\040demo\040skeleton\040running\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 182.5197 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 182.5197 cm
+q
+BT
+1 0 0 1 0 2 Tm
+10.4 TL
+/F2 8.4 Tf
+0 0 0 rg
+(Day\0402\072) Tj
+/F1 8.4 Tf
+(\040iterate\040\050better\040features\057validation\051\054\040add\040explanations\057pathways\054\040polish\040demo\040\053\0407\055minute\040presentation\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 157.5197 cm
+q
+0.043137 0.184314 0.227451 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 12.5 Tf
+15 TL
+(Submission\040checklist) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 141.1197 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 141.1197 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8.4 Tf
+10.4 TL
+(Runnable\040code\040\050notebook\040or\040script\051\040that\040loads\040the\040PDE\040data\040and\040reproduces\040outputs\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 124.7197 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 124.7197 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8.4 Tf
+10.4 TL
+(A\040demo\072\040patient\040timeline\040\053\040risk\040score\040\050A\051\040OR\040recommendations\040\053\040explanation\040\050B\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 108.3197 cm
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 -14 4.9 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 108.3197 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8.4 Tf
+10.4 TL
+(Short\040write\055up\040of\040assumptions\040and\040limitations\040\050synthetic\057disclosure\055treated\040data\073\040not\040clinical\040advice\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 81.51969 cm
+q
+BT
+1 0 0 1 0 12.4 Tm
+10.4 TL
+/F4 8.4 Tf
+0 0 0 rg
+(Important\072) Tj
+/F1 8.4 Tf
+(\040this\040is\040a\040modelling\040and\040product\055thinking\040exercise\040using\040synthetic\040claims\055style\040data\056\040Outputs\040should\040be\040presented\040with) Tj
+T*
+(appropriate\040limitations\040and\040should\040not\040be\040interpreted\040as\040clinical\040advice\056) Tj
+T*
+ET
+Q
+Q
+Q
+q
+0 0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+55 567.5 240 21.5 re
+f*
+q
+1 0 0 1 57 570.6 cm
+q
+BT
+1 0 0 1 0 12 Tm
+10.2 TL
+/F28155b803-593a-42f4-a2e1-7232fc411ca1 8.4 Tf
+0 0 0 rg
+(Goal\072) Tj
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 8.4 Tf
+(\040predict\040late\040refill\040risk\040\050non\055adherence\040proxy\051\040for) Tj
+T*
+(patient\226drug\040pairs\054\040and\040produce\040a\040usable\040risk\040score\056) Tj
+T*
+ET
+Q
+Q
+1 1 1 rg
+n
+40 236 515 69 re
+f*
+q
+1 0 0 1 57 290.3 cm
+q
+BT
+1 0 0 1 -14 1.8 Tm
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 8.4 Tf
+10.2 TL
+(A\040working\040pipeline\040for\040your\040chosen\040challenge\040\050data\040) Tj
+/F35f671066-d50f-4b5f-b40b-92a63cd32e50 8.4 Tf
+10.2 TL
+(\256) Tj
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 8.4 Tf
+10.2 TL
+(\040features\040) Tj
+/F35f671066-d50f-4b5f-b40b-92a63cd32e50 8.4 Tf
+10.2 TL
+(\256) Tj
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 8.4 Tf
+10.2 TL
+(\040model\057recommender\040) Tj
+/F35f671066-d50f-4b5f-b40b-92a63cd32e50 8.4 Tf
+10.2 TL
+(\256) Tj
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 8.4 Tf
+10.2 TL
+(\040metric\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57 278.1 cm
+q
+BT
+1 0 0 1 -14 1.8 Tm
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 8.4 Tf
+10.2 TL
+(A\040sensible\040validation\040approach\040\050time\055based\040is\040recommended\051\040and\040a\040score\040you\040can\040explain\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57 265.9 cm
+q
+BT
+1 0 0 1 -14 1.8 Tm
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 8.4 Tf
+10.2 TL
+(A\040short\040demo\040\050notebook\055as\055product\040is\040fine\073\040Streamlit\057Gradio\040optional\051\040that\040you\040can\040show\040live\040in\040a\040few\040minutes\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57 253.7 cm
+q
+BT
+1 0 0 1 -14 1.8 Tm
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 8.4 Tf
+10.2 TL
+(A\040short\040README\040or\040a\040few\040slides\040\050up\040to\040\1765\051\072\040framing\054\040task\057label\040definition\054\040evaluation\040method\054\040results\040\050and\040any\040caveats\051\056) Tj
+T*
+ET
+Q
+Q
+1 1 1 rg
+n
+40 106 515 50 re
+f*
+q
+1 0 0 1 57 145.3 cm
+q
+BT
+1 0 0 1 -14 1.8 Tm
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 8.4 Tf
+10.2 TL
+(Anything\040runnable\040you\040can\040demo\040\050notebook\057script\057app\040\227\040no\040need\040for\040polished\040code\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57 133.1 cm
+q
+BT
+1 0 0 1 -14 1.8 Tm
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 0 1.8 Tm
+10.2 TL
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 8.4 Tf
+0 0 0 rg
+(A\040demo\072\040patient\040timeline\040\053\040risk\040score\040\050A\051\040) Tj
+/F28155b803-593a-42f4-a2e1-7232fc411ca1 8.4 Tf
+(OR) Tj
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 8.4 Tf
+(\040recommendations\040\053\040explanation\040\050B\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57 120.9 cm
+q
+BT
+1 0 0 1 -14 1.8 Tm
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F12a76e8f6-d3b9-440b-835a-b898e6534ce8 8.4 Tf
+10.2 TL
+(Optional\072\0401\2262\040caveats\040\050synthetic\040data\073\040not\040clinical\040advice\051\040\227\040can\040be\040on\040a\040slide\056) Tj
+T*
+ET
+Q
+Q
+Q
+
+endstream
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000081 00000 n 
+0000000121 00000 n 
+0000000170 00000 n 
+0000000803 00000 n 
+0000010822 00000 n 
+0000010929 00000 n 
+0000011041 00000 n 
+0000011146 00000 n 
+0000011261 00000 n 
+0000011339 00000 n 
+0000011447 00000 n 
+0000011560 00000 n 
+0000011638 00000 n 
+0000012273 00000 n 
+trailer
+<<
+/Size 16
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+28441
+%%EOF
