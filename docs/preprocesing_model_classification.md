@@ -2,7 +2,9 @@
 
 ## `preprocesing.ipynb`
 
-This notebook takes the raw PDE events CSV and builds modeling-ready tables while avoiding future information leakage.
+Location: `notebooks/preprocesing.ipynb`
+
+This notebook takes the raw PDE events CSV from `data/raw/` and builds modeling-ready tables while avoiding future information leakage.
 
 Main flow:
 - Load the original dataset and convert `SRVC_DT` into `service_date`.
@@ -23,6 +25,7 @@ Main flow:
   - prior historical averages per patient-drug pair
 
 Outputs:
+- Files are saved under `data/processed/` at the project root.
 - `challenge_a_regression_dataset.csv`
 - `challenge_a_regression_numeric.csv`
 - `challenge_a_classification_dataset.csv`
@@ -30,7 +33,9 @@ Outputs:
 
 ## `model_classification.ipynb`
 
-This notebook uses `challenge_a_classification_dataset.csv` to predict `target_is_late_refill_7d`.
+Location: `notebooks/model_classification.ipynb`
+
+This notebook uses `data/processed/challenge_a_classification_dataset.csv` to predict `target_is_late_refill_7d`.
 
 Main flow:
 - Load the classification dataset and add a few helper features derived from the previous gap.
@@ -49,6 +54,8 @@ Main flow:
 - Generate a quick calibration check and a table of the most influential variables.
 
 Outputs:
+- Input files are read from `data/processed/`.
+- Result files are saved to `data/outputs/`.
 - model comparison on validation and test
 - threshold search
 - final metrics for the best model
